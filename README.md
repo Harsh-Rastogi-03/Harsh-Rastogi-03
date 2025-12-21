@@ -196,24 +196,7 @@ Financial platform for **Indian Airforce** at BEL, streamlining accounting & rep
 
 <br/>
 
-## `github.stats`
 
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Harsh-Rastogi-03&show_icons=true&hide_border=true&bg_color=0d1117&title_color=10b981&icon_color=10b981&text_color=c9d1d9&ring_color=10b981" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Harsh-Rastogi-03&hide_border=true&background=0d1117&stroke=10b981&ring=10b981&fire=10b981&currStreakLabel=10b981&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=6b7280" />
-
-<br/>
-
-<img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh-Rastogi-03&layout=compact&hide_border=true&bg_color=0d1117&title_color=10b981&text_color=c9d1d9" />
-
-</div>
-
-<br/>
-
----
-
-<br/>
 
 ## `achievements`
 
