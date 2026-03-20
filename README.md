@@ -1,47 +1,43 @@
 <div align="center">
 
-<!-- Header Banner - Dark with Emerald -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:064e3b,100:10b981&height=200&section=header&text=Harsh%20Rastogi&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%E2%80%A2%20Building%20Scalable%20Systems&descAlignY=55&descSize=16&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:064e3b,100:10b981&height=200&section=header&text=Harsh%20Rastogi&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Engineer%20%E2%80%A2%20Generative%20AI%20%E2%80%A2%20Agentic%20Systems&descAlignY=55&descSize=16&descAlign=50" width="100%"/>
 
-<!-- Status Badge - Matching Portfolio -->
 <br/>
+
 <div>
-  <img src="https://img.shields.io/badge/●%20%20Available%20for%20Work-10b981?style=flat-square&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/●%20%20Open%20to%20new%20roles-10b981?style=flat-square&labelColor=0d1117"/>
 </div>
 
 <br/>
 
-<!-- Typing Effect - Emerald Theme -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=300&size=18&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&random=false&width=500&lines=SDE+%40+Alphabetum+Technology;Founder+of+EduFly;Building+Products+for+Defence+%26+Education;Crafting+Elegant+Digital+Experiences" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=300&size=18&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Engineer+%40+Modelia;Generative+AI+%26+Agentic+Systems;AI+Image+Generation+in+Production;TypeScript+%C2%B7+Node.js+%C2%B7+Azure+%C2%B7+AWS" alt="Typing SVG" /></a>
 
 <br/><br/>
 
-<!-- Social Links - Minimal Style -->
-<a href="https://github.com/Harsh-Rastogi-03"><img src="https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=github&logoColor=ffffff"/></a>&nbsp;
+<a href="https://github.com/harsh-modelia"><img src="https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=github&logoColor=ffffff"/></a>&nbsp;
 <a href="https://linkedin.com/in/harsh2003"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=10b981"/></a>&nbsp;
 <a href="mailto:harshrastogi0603@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=flat-square&logo=gmail&logoColor=10b981"/></a>&nbsp;
 <a href="https://www.harshrastogi.tech"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=flat-square&logo=safari&logoColor=10b981"/></a>
 
 <br/><br/>
 
-<!-- Stats Bar - Matching Portfolio Design -->
 <table>
 <tr>
 <td align="center">
-<h3>15K<span style="color: #10b981">+</span></h3>
-<sub>USERS SERVED</sub>
+<h3>1.5<span style="color: #10b981">+</span></h3>
+<sub>YEARS EXPERIENCE</sub>
 </td>
 <td align="center">
-<h3>4<span style="color: #10b981">+</span></h3>
-<sub>COMPANIES</sub>
+<h3>3<span style="color: #10b981">+</span></h3>
+<sub>AI SYSTEMS SHIPPED</sub>
 </td>
 <td align="center">
 <h3>99.9<span style="color: #10b981">%</span></h3>
-<sub>UPTIME</sub>
+<sub>PRODUCTION UPTIME</sub>
 </td>
 <td align="center">
-<h3>1.5<span style="color: #10b981">+</span></h3>
-<sub>YEARS EXP</sub>
+<h3>2<span style="color: #10b981">+</span></h3>
+<sub>CLOUD PLATFORMS</sub>
 </td>
 </tr>
 </table>
@@ -55,19 +51,40 @@
 ## `whoami`
 
 ```typescript
-const harsh = {
-    role: "Software Development Engineer @ Alphabetum Technology",
-    location: "India",
-    
-    currently: "Building microservices & scalable backend systems",
-    previously: "Shipped code for Indian Defence at BEL",
-    
-    building: "EduFly — AI-powered School ERP",
-    impact: "15,000+ students served through GyanSathi LMS",
-    
-    mass: ["TypeScript", "Node.js", "React", "PostgreSQL", "AWS"]
+const harsh: Engineer = {
+  role:     "Full Stack Engineer @ Modelia",
+  location: "India",
+
+  focus: [
+    "Generative AI",
+    "Agentic Systems",
+    "AI Image Generation",
+    "Cloud Infrastructure",
+  ],
+
+  currently: {
+    building:  "Production AI SaaS platform — generative image pipelines at scale",
+    exploring: "Agentic AI architecture — LLM reasoning, tool use & autonomous workflows",
+    stack:     ["TypeScript", "Node.js", "Remix", "Prisma", "Azure", "AWS"],
+  },
+
+  previously: [
+    "Full Stack Developer @ Asynq (2025)",
+    "React Developer Intern @ Bharat Electronics Limited — Indian Defence",
+  ],
+
+  sideProjects: [
+    "selfAgent — Agentic AI system R&D",
+    "PDF Compliance Validation Engine — WCAG 2.2 / PDF-UA-1",
+  ],
+
+  openTo: "Engineering roles at AI-first companies",
 };
 ```
+
+<br/>
+
+---
 
 <br/>
 
@@ -79,37 +96,45 @@ const harsh = {
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3178C6)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![C++](https://img.shields.io/badge/C++-0d1117?style=flat-square&logo=cplusplus&logoColor=00599C)
-![Java](https://img.shields.io/badge/Java-0d1117?style=flat-square&logo=openjdk&logoColor=ED8B00)
+![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776AB)
 ![SQL](https://img.shields.io/badge/SQL-0d1117?style=flat-square&logo=postgresql&logoColor=4169E1)
+
+**`// ai & generative`**
+
+![Generative AI](https://img.shields.io/badge/Generative_AI-0d1117?style=flat-square&logo=openai&logoColor=10b981)
+![LLM Integration](https://img.shields.io/badge/LLM_Integration-0d1117?style=flat-square&logo=anthropic&logoColor=10b981)
+![Agentic Systems](https://img.shields.io/badge/Agentic_Systems-0d1117?style=flat-square&logo=openai&logoColor=10b981)
+![AI Image Generation](https://img.shields.io/badge/AI_Image_Generation-0d1117?style=flat-square&logo=stability-ai&logoColor=10b981)
 
 **`// frontend`**
 
+![Remix](https://img.shields.io/badge/Remix-0d1117?style=flat-square&logo=remix&logoColor=ffffff)
 ![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=nextdotjs&logoColor=ffffff)
 ![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-0d1117?style=flat-square&logo=vuedotjs&logoColor=4FC08D)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-0d1117?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
 
 **`// backend`**
 
 ![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=339933)
 ![Express](https://img.shields.io/badge/Express-0d1117?style=flat-square&logo=express&logoColor=ffffff)
-![tRPC](https://img.shields.io/badge/tRPC-0d1117?style=flat-square&logo=trpc&logoColor=2596BE)
 ![Prisma](https://img.shields.io/badge/Prisma-0d1117?style=flat-square&logo=prisma&logoColor=ffffff)
+![REST APIs](https://img.shields.io/badge/REST_APIs-0d1117?style=flat-square&logo=fastapi&logoColor=10b981)
 
 **`// databases`**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=4169E1)
-![Redis](https://img.shields.io/badge/Redis-0d1117?style=flat-square&logo=redis&logoColor=DC382D)
 ![Firebase](https://img.shields.io/badge/Firebase-0d1117?style=flat-square&logo=firebase&logoColor=FFCA28)
-![Supabase](https://img.shields.io/badge/Supabase-0d1117?style=flat-square&logo=supabase&logoColor=3FCF8E)
+![Firestore](https://img.shields.io/badge/Firestore-0d1117?style=flat-square&logo=firebase&logoColor=FFCA28)
+![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=flat-square&logo=mongodb&logoColor=47A248)
+![Redis](https://img.shields.io/badge/Redis-0d1117?style=flat-square&logo=redis&logoColor=DC382D)
 
-**`// devops`**
+**`// cloud & devops`**
 
-![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=2496ED)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0d1117?style=flat-square&logo=microsoftazure&logoColor=0078D4)
 ![AWS](https://img.shields.io/badge/AWS-0d1117?style=flat-square&logo=amazonwebservices&logoColor=FF9900)
-![Jenkins](https://img.shields.io/badge/Jenkins-0d1117?style=flat-square&logo=jenkins&logoColor=D24939)
-![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=F05032)
+![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=2496ED)
+![Nginx](https://img.shields.io/badge/Nginx-0d1117?style=flat-square&logo=nginx&logoColor=009639)
+![PM2](https://img.shields.io/badge/PM2-0d1117?style=flat-square&logo=pm2&logoColor=2B037A)
 
 </div>
 
@@ -125,33 +150,33 @@ const harsh = {
 <tr>
 <td width="50%" valign="top">
 
-### 🎓 EduFly
-**AI-Powered School ERP**
+### AI Image Generation Platform
+**Production SaaS · Modelia**
 
-`Next.js` `Node.js` `PostgreSQL` `AWS` `Docker`
+`TypeScript` `Node.js` `Remix` `Prisma` `Azure` `Generative AI`
 
-Full-stack ERP serving multiple schools with student analytics, attendance automation & real-time sync.
+End-to-end AI-powered fashion image generation platform for e-commerce merchants. Server-side Azure Blob proxy for secure media delivery, cross-platform credit system bridging SQL + Firestore, full production deployment on cloud VM.
 
 ```diff
-+ 99.9% Uptime
-+ 60% Less Manual Work  
-+ 50% Better Accuracy
++ Generative AI pipelines in production
++ Secure media delivery via Azure proxy
++ Cross-platform auth & billing system
 ```
 
 </td>
 <td width="50%" valign="top">
 
-### 📚 GyanSathi LMS
-**Government Learning System**
+### selfAgent
+**Agentic AI System · R&D**
 
-`React.js` `Node.js` `PostgreSQL` `Firebase`
+`TypeScript` `Node.js` `LLMs` `Agent Frameworks`
 
-Scalable LMS delivering education to **15,000+ students** across multiple districts.
+Research project on production-ready agentic AI architecture — LLM-based autonomous reasoning, multi-step task planning, tool use, and persistent agent memory. Built to explore how AI agents operate reliably in real-world workflows.
 
 ```diff
-+ 15K+ Students Served
-+ 45% Faster Response
-+ Multi-district Scale
++ Multi-step LLM reasoning & tool use
++ Autonomous task execution patterns
++ Agent memory & context management
 ```
 
 </td>
@@ -159,31 +184,33 @@ Scalable LMS delivering education to **15,000+ students** across multiple distri
 <tr>
 <td width="50%" valign="top">
 
-### 🛡️ Harvester HCI
-**Open-Source Defence Project**
+### PDF Compliance Validation Engine
+**Microservice · Open Source**
 
-`Hyper-Converged Infrastructure` `Data Centers`
+`Python` `veraPDF` `Celery` `PostgreSQL` `Docker`
 
-Contributed to HCI solution for Indian Defence. Optimized virtualized computing, storage & networking.
+REST API microservice for automated PDF accessibility validation against WCAG 2.2 and PDF/UA-1 standards. Async job processing via Celery, designed for CI/CD pipeline integration.
 
 ```diff
-+ 45% Better Efficiency
-+ 40% More Productivity
++ WCAG 2.2 & PDF-UA-1 compliance
++ Async processing via Celery
++ Docker-ready microservice
 ```
 
 </td>
 <td width="50%" valign="top">
 
-### ✈️ EFIS
-**Enterprise Financial System**
+### Harvester HCI · Defence
+**Internship · Bharat Electronics Limited**
 
-`React.js` `Node.js` `PostgreSQL`
+`React.js` `Node.js` `Hyper-Converged Infrastructure`
 
-Financial platform for **Indian Airforce** at BEL, streamlining accounting & reporting.
+Contributed to HCI solution for Indian Defence at BEL. Built interfaces for virtualized computing and storage management systems used in defence-grade environments.
 
 ```diff
-+ 75% Less Paperwork
-+ 40% Faster Processing
++ Indian Defence deployment
++ Hyper-Converged Infrastructure
++ 45% efficiency improvement
 ```
 
 </td>
@@ -196,7 +223,26 @@ Financial platform for **Indian Airforce** at BEL, streamlining accounting & rep
 
 <br/>
 
+## `what i build`
 
+<div align="center">
+
+```
+Generative AI pipelines  ──────────────────────────────  production
+Agentic AI systems       ────────────────────────────    in progress
+Cloud infrastructure     ──────────────────────────────  Azure + AWS
+Full stack SaaS          ──────────────────────────────  shipped
+REST API architecture    ──────────────────────────────  daily
+AI Image Generation      ─────────────────────────────   production
+```
+
+</div>
+
+<br/>
+
+---
+
+<br/>
 
 ## `achievements`
 
@@ -204,10 +250,11 @@ Financial platform for **Indian Airforce** at BEL, streamlining accounting & rep
 
 | | |
 |:---:|:---|
+| 🤖 | **Generative AI in production** — AI image generation platform serving real merchants at Modelia |
+| 🧠 | **Agentic AI R&D** — Building autonomous LLM-based systems exploring real-world agent patterns |
+| 🛡️ | **Defence contribution** — Shipped code for Indian Defence at Bharat Electronics Limited |
 | 📄 | **Scopus Publication** — *"Blockchain Technology in Bharat Judicial System"* |
-| 📚 | **Book Chapter** — *"6G Innovations: Healthcare & Medical Tech"* — Cambridge Scholars |
-| 🛡️ | **Defence Projects** — Built systems for Indian Defence & Indian Airforce |
-| 🎓 | **EdTech Impact** — Serving 15,000+ students through GyanSathi LMS |
+| 📚 | **Book Chapter** — *"6G Innovations: Healthcare & Medical Tech"* — Cambridge Scholars Publishing |
 
 </div>
 
@@ -221,10 +268,8 @@ Financial platform for **Indian Airforce** at BEL, streamlining accounting & rep
 
 <div align="center">
 
-![Cisco](https://img.shields.io/badge/Cybersecurity-Cisco-0d1117?style=flat-square&logo=cisco&logoColor=1BA0D7)
-![Coursera](https://img.shields.io/badge/Generative_AI-Coursera-0d1117?style=flat-square&logo=coursera&logoColor=0056D2)
-![CodeChef](https://img.shields.io/badge/Java-CodeChef-0d1117?style=flat-square&logo=codechef&logoColor=5B4638)
-![Udemy](https://img.shields.io/badge/C++-Udemy-0d1117?style=flat-square&logo=udemy&logoColor=A435F0)
+![Google](https://img.shields.io/badge/Introduction_to_Generative_AI-Google_Cloud-0d1117?style=flat-square&logo=googlecloud&logoColor=4285F4)
+![Cisco](https://img.shields.io/badge/Introduction_to_Cybersecurity-Cisco-0d1117?style=flat-square&logo=cisco&logoColor=1BA0D7)
 
 </div>
 
@@ -240,7 +285,7 @@ Financial platform for **Indian Airforce** at BEL, streamlining accounting & rep
 
 <br/>
 
-**Open to collaborating on innovative projects**
+**Building something with AI? Let's talk.**
 
 <br/>
 
@@ -252,11 +297,10 @@ Financial platform for **Indian Airforce** at BEL, streamlining accounting & rep
 
 <br/><br/>
 
-<sub>harshrastogi0603@gmail.com</sub>
+<sub>harshrastogi0603@gmail.com · harshrastogi.tech</sub>
 
 <br/><br/>
 
-<!-- Footer -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:10b981,50:064e3b,100:000000&height=100&section=footer" width="100%"/>
 
 </div>
