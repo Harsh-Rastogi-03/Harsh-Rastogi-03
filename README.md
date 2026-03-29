@@ -4,9 +4,7 @@
 
 <br/>
 
-<div>
-  <img src="https://img.shields.io/badge/●%20%20Open%20to%20new%20roles-10b981?style=flat-square&labelColor=0d1117"/>
-</div>
+
 
 <br/>
 
