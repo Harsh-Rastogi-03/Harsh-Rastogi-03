@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="460" viewBox="0 0 1280 460">
+  <style>
+    .sans { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Helvetica, Arial, sans-serif; }
+    .mono { font-family: 'SF Mono', ui-monospace, Menlo, Consolas, 'Liberation Mono', monospace; }
+    .l { opacity: 0; animation: show 12s infinite; }
+    .l1 { animation-delay: 0s } .l2 { animation-delay: .7s } .l3 { animation-delay: 1.7s }
+    .l4 { animation-delay: 2.5s } .l5 { animation-delay: 3.6s } .l6 { animation-delay: 4.4s }
+    .l7 { animation-delay: 5.4s }
+    @keyframes show { 0% { opacity: 0; transform: translateY(6px) } 3% { opacity: 1; transform: none }
+                      80% { opacity: 1 } 88%, 100% { opacity: 0 } }
+    .cursor { animation: blink 1s steps(1) infinite; }
+    @keyframes blink { 50% { opacity: 0 } }
+    .pulse { animation: pulse 2.4s ease-out infinite; transform-box: fill-box; transform-origin: center; }
+    @keyframes pulse { 0% { opacity: .6; transform: scale(1) } 100% { opacity: 0; transform: scale(2.4) } }
+  </style>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#030806"/><stop offset="1" stop-color="#07140f"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.18" cy="0.2" r="0.6">
+      <stop offset="0" stop-color="#10b981" stop-opacity=".18"/><stop offset="1" stop-color="#10b981" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="name" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#6ee7b7"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#10b981" stroke-opacity=".06"/>
+    </pattern>
+  </defs>
+
+  <rect width="1280" height="460" rx="24" fill="url(#bg)"/>
+  <rect width="1280" height="460" rx="24" fill="url(#grid)"/>
+  <rect width="1280" height="460" rx="24" fill="url(#glow)"/>
+
+  <!-- identity -->
+  <g class="sans" transform="translate(72,0)">
+    <text x="0" y="118" font-size="16" font-weight="700" fill="#10b981" letter-spacing="4">AI PRODUCT ENGINEER · MODELIA</text>
+    <text x="-3" y="196" font-size="72" font-weight="800" fill="url(#name)" letter-spacing="-1.5">Harsh Rastogi</text>
+    <text x="0" y="246" font-size="24" fill="#d1fae5">I own generative-AI systems end to end,</text>
+    <text x="0" y="280" font-size="24" fill="#d1fae5">from the billing engine to the agents.</text>
+    <g transform="translate(0,322)" font-size="14" font-weight="600">
+      <rect width="190" height="34" rx="17" fill="#0b1f18" stroke="#134e3a"/>
+      <text x="95" y="22" text-anchor="middle" fill="#6ee7b7">4 production systems</text>
+      <rect x="202" width="190" height="34" rx="17" fill="#0b1f18" stroke="#134e3a"/>
+      <text x="297" y="22" text-anchor="middle" fill="#6ee7b7">367 PRs merged · 2026</text>
+      <rect x="404" width="150" height="34" rx="17" fill="#0b1f18" stroke="#134e3a"/>
+      <text x="479" y="22" text-anchor="middle" fill="#6ee7b7">Agentic AI</text>
+    </g>
+  </g>
+
+  <!-- terminal -->
+  <g transform="translate(676,48)">
+    <rect width="540" height="364" rx="16" fill="#020604" stroke="#134e3a" stroke-width="1.5"/>
+    <rect width="540" height="40" rx="16" fill="#0a1712"/>
+    <rect y="24" width="540" height="16" fill="#0a1712"/>
+    <circle cx="22" cy="20" r="6" fill="#ff5f57"/><circle cx="42" cy="20" r="6" fill="#febc2e"/><circle cx="62" cy="20" r="6" fill="#28c840"/>
+    <text class="mono" x="270" y="25" font-size="13" fill="#6b8f80" text-anchor="middle">carcode · live from the car</text>
+    <circle class="pulse" cx="490" cy="20" r="5" fill="#10b981"/>
+    <circle cx="490" cy="20" r="5" fill="#10b981"/>
+
+    <g class="mono" font-size="15">
+      <g class="l l1"><text x="24" y="80" fill="#6b8f80">🚗  harsh</text><text x="126" y="80" fill="#e5e7eb">"Hey Siri, Jarvis"</text></g>
+      <g class="l l2"><text x="24" y="112" fill="#10b981">🤖  jarvis</text><text x="126" y="112" fill="#a7f3d0">Hello Boss, I am ready for work.</text></g>
+      <g class="l l3"><text x="24" y="156" fill="#6b8f80">🚗  harsh</text><text x="126" y="156" fill="#e5e7eb">"Any PRs waiting on me?"</text></g>
+      <g class="l l4"><text x="24" y="188" fill="#10b981">🤖  jarvis</text><text x="126" y="188" fill="#a7f3d0">Two. The metering one has green CI.</text></g>
+      <g class="l l5"><text x="24" y="232" fill="#6b8f80">🚗  harsh</text><text x="126" y="232" fill="#e5e7eb">"Review it and merge if it's clean."</text></g>
+      <g class="l l6"><text x="24" y="264" fill="#10b981">🤖  jarvis</text><text x="126" y="264" fill="#a7f3d0">Say confirm to merge PR four-twelve.</text></g>
+      <g class="l l7"><text x="24" y="308" fill="#6b8f80">🚗  harsh</text><text x="126" y="308" fill="#e5e7eb">"Confirm."</text>
+        <text x="24" y="340" fill="#10b981">✓   merged · deployed · back on the road</text></g>
+      <rect class="cursor" x="392" y="326" width="9" height="18" fill="#10b981"/>
+    </g>
+  </g>
+</svg>
