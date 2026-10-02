@@ -1,30 +1,62 @@
 <div align="center">
 
-<img src="assets/hero.svg" alt="Harsh Rastogi, AI Product Engineer at Modelia" width="100%">
+<img src="assets/hero.svg" alt="Harsh Rastogi, AI Product Engineer" width="100%">
 
 <br><br>
 
 <a href="https://linkedin.com/in/harsh2003"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=10b981"/></a>&nbsp;
 <a href="mailto:harshrastogi0603@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=10b981"/></a>&nbsp;
 <a href="https://www.harshrastogi.tech"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=safari&logoColor=10b981"/></a>&nbsp;
-<a href="https://modelia.ai"><img src="https://img.shields.io/badge/Modelia-0d1117?style=for-the-badge&logoColor=10b981"/></a>&nbsp;
 <a href="https://github.com/Harsh-Rastogi-03/carcode"><img src="https://img.shields.io/badge/carcode-0d1117?style=for-the-badge&logo=github&logoColor=10b981"/></a>
 
 </div>
 
 <br>
 
-I'm an **AI Product Engineer at [Modelia](https://modelia.ai)**, where generative AI turns product photos into studio-quality fashion imagery and video for e-commerce brands. I own systems across the stack: the **metering and billing engine** behind every generation, the **ingestion and generation workflows** in the studio, the **AI agents** that handle customer support, and the **Shopify platform** that brings it all to merchants.
+I'm an **AI Product Engineer** who builds generative-AI products and autonomous agents, and takes them from idea to production. Today that means AI fashion imagery at **Modelia**, multi-agent systems at **SelfAgentic**, and a learning platform I delivered end to end for **GyanSathi**.
 
 I care about the parts of AI products that rarely make the demo: correct billing, safe data pipelines, clean migrations, and agents that know when to hand over to a human.
 
 <br>
 
-<img src="assets/impact.svg" alt="367 merged pull requests in 2026 at Modelia" width="100%">
+<table>
+<tr>
+<td width="33%" valign="top" align="center">
+
+### 🎨 [Modelia](https://modelia.ai)
+**AI Product Engineer**
+
+Generative-AI fashion imagery and video for e-commerce brands
+
+</td>
+<td width="33%" valign="top" align="center">
+
+### 🤖 [SelfAgentic](https://selfagentic.in)
+**Contributor**
+
+Teams of autonomous AI agents that work inside your tools
+
+</td>
+<td width="33%" valign="top" align="center">
+
+### 🎓 [GyanSathi](https://gyansathi.com)
+**Delivered end to end**
+
+A multilingual learning platform for 50,000+ learners
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## `Modelia` · AI Product Engineer
+
+> [Modelia](https://modelia.ai) turns product photos into studio-quality fashion imagery and video with generative AI. I own systems across the product, from the billing engine under every generation to the agents that support customers.
+
+<img src="assets/impact.svg" alt="367 merged pull requests in 2026" width="100%">
 
 <br><br>
-
-## `systems I own`
 
 <table>
 <tr>
@@ -87,9 +119,56 @@ Modelia's AI fashion tools (virtual try-on, consistent character, outfit generat
 
 <br>
 
+## `SelfAgentic` · multi-agent platform
+
+> [SelfAgentic](https://selfagentic.in): *"AI Agents That Work For You."* I contribute to a platform where teams of autonomous agents collaborate, remember context across runs, and take real actions in the tools a business already uses.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**What the platform does**
+
+- **Multi-agent collaboration:** agents consult each other mid-run and chain into workflows
+- **Persistent memory** across conversations and runs
+- Real actions in **Slack, Google Workspace, LinkedIn, Instagram and Meta Ads**, plus web research
+
+</td>
+<td width="50%" valign="top">
+
+**Built for production**
+
+- **Per-agent tool permissions**, with **approval gates** on every outbound action
+- No-code setup: describe an agent and its skills are suggested
+- Ready-made specialists for lead intelligence, market research and SEO audits
+
+</td>
+</tr>
+</table>
+
+`Multi-agent` `LLMs` `Tool use` `Memory` `Human-in-the-loop`
+
+<br>
+
+## `GyanSathi` · delivered end to end
+
+> [GyanSathi](https://gyansathi.com): *"Transforming Lives Since 2020."* I delivered the platform end to end: a multilingual learning system for students, professionals and companies training their teams.
+
+| Area | What it covers |
+|---|---|
+| 📚 **Courses** | 500+ expert-led courses: course creation, video lessons and interactive quizzes |
+| 🌐 **Multilingual LMS** | Self-paced learning in several languages, from anywhere |
+| 📈 **Progress & analytics** | Learner progress tracking and real-time analytics dashboards |
+| 🏅 **Certification** | Verified digital certificates with authenticity checks |
+| 💬 **Community** | Discussion forums and community support |
+
+<sub>Platform figures: 50,000+ active learners · 1,000+ instructors (per gyansathi.com)</sub>
+
+<br>
+
 ## `journey`
 
-<img src="assets/journey.svg" alt="Journey: Bharat Electronics → research → Asynq → Modelia" width="100%">
+<img src="assets/journey.svg" alt="Journey: Bharat Electronics → Asynq → GyanSathi → Modelia and SelfAgentic" width="100%">
 
 <br><br>
 

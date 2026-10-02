@@ -15,7 +15,7 @@
   </defs>
   <rect width="1280" height="400" rx="24" fill="#030806" stroke="#0f2e23"/>
   <text x="64" y="58" font-size="14" font-weight="700" fill="#10b981" letter-spacing="3">THE JOURNEY</text>
-  <text x="64" y="88" font-size="22" font-weight="700" fill="#ffffff">From defence systems to generative-AI products</text>
+  <text x="64" y="88" font-size="22" font-weight="700" fill="#ffffff">From defence systems to AI products and agents</text>
 
   <line class="line" x1="140" y1="168" x2="1140" y2="168" stroke="url(#track)" stroke-width="3" stroke-linecap="round"/>
 
@@ -30,26 +30,24 @@
     <text x="64" y="338" font-size="13" font-weight="700" fill="#10b981">+45% efficiency</text>
   </g>
 
-  <!-- 2 Research -->
+  <!-- 2 Asynq -->
   <g class="step s2">
     <circle cx="460" cy="168" r="9" fill="#030806" stroke="#34d399" stroke-width="3"/>
-    <text x="364" y="214" font-size="12" font-weight="700" fill="#6b8f80" letter-spacing="2">ALONG THE WAY</text>
-    <text x="364" y="242" font-size="19" font-weight="700" fill="#ffffff">Published author</text>
-    <text x="364" y="268" font-size="14" fill="#a7f3d0">Scopus-indexed paper on</text>
-    <text x="364" y="288" font-size="14" fill="#a7f3d0">blockchain in the judicial system;</text>
-    <text x="364" y="308" font-size="14" fill="#a7f3d0">6G healthcare book chapter</text>
-    <text x="364" y="338" font-size="13" font-weight="700" fill="#10b981">Cambridge Scholars</text>
+    <text x="364" y="214" font-size="12" font-weight="700" fill="#6b8f80" letter-spacing="2">2025 · FULL STACK</text>
+    <text x="364" y="242" font-size="19" font-weight="700" fill="#ffffff">Asynq</text>
+    <text x="364" y="268" font-size="14" fill="#a7f3d0">Full Stack Developer</text>
+    <text x="364" y="338" font-size="13" font-weight="700" fill="#10b981">Full stack</text>
   </g>
 
-  <!-- 3 Asynq -->
+  <!-- 3 GyanSathi -->
   <g class="step s3">
     <circle cx="760" cy="168" r="9" fill="#030806" stroke="#34d399" stroke-width="3"/>
-    <text x="664" y="214" font-size="12" font-weight="700" fill="#6b8f80" letter-spacing="2">2025</text>
-    <text x="664" y="242" font-size="19" font-weight="700" fill="#ffffff">Asynq</text>
-    <text x="664" y="268" font-size="14" fill="#a7f3d0">Full Stack Developer.</text>
-    <text x="664" y="288" font-size="14" fill="#a7f3d0">Side R&amp;D: selfAgent (agent</text>
-    <text x="664" y="308" font-size="14" fill="#a7f3d0">architecture), PDF compliance engine</text>
-    <text x="664" y="338" font-size="13" font-weight="700" fill="#10b981">Full stack → agents</text>
+    <text x="664" y="214" font-size="12" font-weight="700" fill="#6b8f80" letter-spacing="2">END-TO-END DELIVERY</text>
+    <text x="664" y="242" font-size="19" font-weight="700" fill="#ffffff">GyanSathi</text>
+    <text x="664" y="268" font-size="14" fill="#a7f3d0">Delivered a multilingual learning</text>
+    <text x="664" y="288" font-size="14" fill="#a7f3d0">platform: courses, quizzes,</text>
+    <text x="664" y="308" font-size="14" fill="#a7f3d0">certificates, analytics</text>
+    <text x="664" y="338" font-size="13" font-weight="700" fill="#10b981">50,000+ learners</text>
   </g>
 
   <!-- 4 Modelia -->
@@ -58,11 +56,11 @@
     <circle cx="1060" cy="168" r="10" fill="#10b981"/>
     <rect x="1024" y="112" width="72" height="28" rx="14" fill="#0b1f18" stroke="#10b981"/>
     <text x="1060" y="131" font-size="12" font-weight="700" fill="#6ee7b7" text-anchor="middle">NOW</text>
-    <text x="964" y="214" font-size="12" font-weight="700" fill="#6b8f80" letter-spacing="2">GENERATIVE AI</text>
-    <text x="964" y="242" font-size="19" font-weight="700" fill="#ffffff">Modelia</text>
-    <text x="964" y="268" font-size="14" fill="#a7f3d0">AI Product Engineer: billing</text>
-    <text x="964" y="288" font-size="14" fill="#a7f3d0">engine, studio platform, AI</text>
-    <text x="964" y="308" font-size="14" fill="#a7f3d0">agents and the Shopify app</text>
-    <text x="964" y="338" font-size="13" font-weight="700" fill="#10b981">367 PRs in 2026 · carcode</text>
+    <text x="964" y="214" font-size="12" font-weight="700" fill="#6b8f80" letter-spacing="2">AI PRODUCTS · AGENTS</text>
+    <text x="964" y="242" font-size="19" font-weight="700" fill="#ffffff">Modelia + SelfAgentic</text>
+    <text x="964" y="268" font-size="14" fill="#a7f3d0">AI Product Engineer at Modelia;</text>
+    <text x="964" y="288" font-size="14" fill="#a7f3d0">contributor to SelfAgentic's</text>
+    <text x="964" y="308" font-size="14" fill="#a7f3d0">multi-agent platform</text>
+    <text x="964" y="338" font-size="13" font-weight="700" fill="#10b981">Generative AI · agents · carcode</text>
   </g>
 </svg>

@@ -34,17 +34,17 @@
 
   <!-- identity -->
   <g class="sans" transform="translate(72,0)">
-    <text x="0" y="118" font-size="16" font-weight="700" fill="#10b981" letter-spacing="4">AI PRODUCT ENGINEER · MODELIA</text>
+    <text x="0" y="118" font-size="16" font-weight="700" fill="#10b981" letter-spacing="4">AI PRODUCT ENGINEER</text>
     <text x="-3" y="196" font-size="72" font-weight="800" fill="url(#name)" letter-spacing="-1.5">Harsh Rastogi</text>
-    <text x="0" y="246" font-size="24" fill="#d1fae5">I own generative-AI systems end to end,</text>
-    <text x="0" y="280" font-size="24" fill="#d1fae5">from the billing engine to the agents.</text>
+    <text x="0" y="246" font-size="24" fill="#d1fae5">I build generative-AI products and</text>
+    <text x="0" y="280" font-size="24" fill="#d1fae5">autonomous agents, end to end.</text>
     <g transform="translate(0,322)" font-size="14" font-weight="600">
-      <rect width="190" height="34" rx="17" fill="#0b1f18" stroke="#134e3a"/>
-      <text x="95" y="22" text-anchor="middle" fill="#6ee7b7">4 production systems</text>
-      <rect x="202" width="190" height="34" rx="17" fill="#0b1f18" stroke="#134e3a"/>
-      <text x="297" y="22" text-anchor="middle" fill="#6ee7b7">367 PRs merged · 2026</text>
-      <rect x="404" width="150" height="34" rx="17" fill="#0b1f18" stroke="#134e3a"/>
-      <text x="479" y="22" text-anchor="middle" fill="#6ee7b7">Agentic AI</text>
+      <rect width="160" height="34" rx="17" fill="#0b1f18" stroke="#134e3a"/>
+      <text x="80" y="22" text-anchor="middle" fill="#6ee7b7">Generative AI</text>
+      <rect x="172" width="160" height="34" rx="17" fill="#0b1f18" stroke="#134e3a"/>
+      <text x="252" y="22" text-anchor="middle" fill="#6ee7b7">Multi-agent systems</text>
+      <rect x="344" width="180" height="34" rx="17" fill="#0b1f18" stroke="#134e3a"/>
+      <text x="434" y="22" text-anchor="middle" fill="#6ee7b7">Products shipped E2E</text>
     </g>
   </g>
 
