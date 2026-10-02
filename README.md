@@ -121,48 +121,17 @@ Modelia's AI fashion tools (virtual try-on, consistent character, outfit generat
 
 ## `SelfAgentic` · multi-agent platform
 
-> [SelfAgentic](https://selfagentic.in): *"AI Agents That Work For You."* I contribute to a platform where teams of autonomous agents collaborate, remember context across runs, and take real actions in the tools a business already uses.
+<a href="https://selfagentic.in"><img src="assets/selfagentic.svg" alt="SelfAgentic: AI agents that work for you" width="100%"></a>
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**What the platform does**
-
-- **Multi-agent collaboration:** agents consult each other mid-run and chain into workflows
-- **Persistent memory** across conversations and runs
-- Real actions in **Slack, Google Workspace, LinkedIn, Instagram and Meta Ads**, plus web research
-
-</td>
-<td width="50%" valign="top">
-
-**Built for production**
-
-- **Per-agent tool permissions**, with **approval gates** on every outbound action
-- No-code setup: describe an agent and its skills are suggested
-- Ready-made specialists for lead intelligence, market research and SEO audits
-
-</td>
-</tr>
-</table>
-
-`Multi-agent` `LLMs` `Tool use` `Memory` `Human-in-the-loop`
+I contribute to **[SelfAgentic](https://selfagentic.in)**, a platform where teams of autonomous agents collaborate, keep memory across runs, and take real actions in Slack, Google Workspace, LinkedIn and Meta Ads, with per-agent permissions and human approval on every outbound action.
 
 <br>
 
 ## `GyanSathi` · delivered end to end
 
-> [GyanSathi](https://gyansathi.com): *"Transforming Lives Since 2020."* I delivered the platform end to end: a multilingual learning system for students, professionals and companies training their teams.
+<a href="https://gyansathi.com"><img src="assets/gyansathi.svg" alt="GyanSathi: learning platform with AI-based evaluation" width="100%"></a>
 
-| Area | What it covers |
-|---|---|
-| 📚 **Courses** | 500+ expert-led courses: course creation, video lessons and interactive quizzes |
-| 🌐 **Multilingual LMS** | Self-paced learning in several languages, from anywhere |
-| 📈 **Progress & analytics** | Learner progress tracking and real-time analytics dashboards |
-| 🏅 **Certification** | Verified digital certificates with authenticity checks |
-| 💬 **Community** | Discussion forums and community support |
-
-<sub>Platform figures: 50,000+ active learners · 1,000+ instructors (per gyansathi.com)</sub>
+I delivered **[GyanSathi](https://gyansathi.com)** end to end: a multilingual learning platform with courses and quizzes, **AI-based evaluation of students**, live progress analytics, verified certificates and community forums.
 
 <br>
 
