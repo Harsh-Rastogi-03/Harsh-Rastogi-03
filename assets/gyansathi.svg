@@ -25,24 +25,24 @@
 
   <!-- left copy + stats -->
   <g transform="translate(64,0)">
-    <text x="0" y="66" font-size="14" font-weight="700" fill="#fbbf24" letter-spacing="3">GYANSATHI · DELIVERED END TO END</text>
+    <text x="0" y="66" font-size="14" font-weight="700" fill="#fbbf24" letter-spacing="3">GYANSATHI · BUILT SOLO, END TO END</text>
     <text x="-2" y="124" font-size="44" font-weight="800" fill="#ffffff" letter-spacing="-1">A learning platform,</text>
     <text x="-2" y="172" font-size="44" font-weight="800" fill="#fcd34d" letter-spacing="-1">built start to finish.</text>
-    <text x="0" y="212" font-size="17" fill="#e7dcc4">Multilingual LMS with AI-graded assessments</text>
-    <text x="0" y="236" font-size="17" fill="#e7dcc4">for students, professionals and teams.</text>
+    <text x="0" y="212" font-size="17" fill="#e7dcc4">A production LMS at CCS University with</text>
+    <text x="0" y="236" font-size="17" fill="#e7dcc4">AI-based evaluation of students.</text>
 
     <g transform="translate(0,276)">
       <rect width="148" height="96" rx="16" fill="#1f1608" stroke="#4a340d"/>
-      <text x="74" y="46" text-anchor="middle" font-size="32" font-weight="800" fill="#ffffff">50K+</text>
+      <text x="74" y="46" text-anchor="middle" font-size="32" font-weight="800" fill="#ffffff">5K+</text>
       <text x="74" y="72" text-anchor="middle" font-size="13" fill="#c9b48a">active learners</text>
       <rect x="162" width="148" height="96" rx="16" fill="#1f1608" stroke="#4a340d"/>
-      <text x="236" y="46" text-anchor="middle" font-size="32" font-weight="800" fill="#ffffff">500+</text>
-      <text x="236" y="72" text-anchor="middle" font-size="13" fill="#c9b48a">courses</text>
+      <text x="236" y="46" text-anchor="middle" font-size="32" font-weight="800" fill="#ffffff">Solo</text>
+      <text x="236" y="72" text-anchor="middle" font-size="13" fill="#c9b48a">full-stack build</text>
       <rect x="324" width="148" height="96" rx="16" fill="#1f1608" stroke="#4a340d"/>
-      <text x="398" y="46" text-anchor="middle" font-size="32" font-weight="800" fill="#ffffff">1K+</text>
-      <text x="398" y="72" text-anchor="middle" font-size="13" fill="#c9b48a">instructors</text>
+      <text x="398" y="46" text-anchor="middle" font-size="32" font-weight="800" fill="#ffffff">Live</text>
+      <text x="398" y="72" text-anchor="middle" font-size="13" fill="#c9b48a">in production</text>
     </g>
-    <text x="0" y="404" font-size="11" fill="#8a7a5a">Platform figures per gyansathi.com</text>
+    
   </g>
 
   <!-- right: feature grid -->
@@ -65,15 +65,15 @@
     <g font-size="15">
       <g class="tile t2" transform="translate(0,146)">
         <rect width="196" height="104" rx="16" fill="#1a1207" stroke="#3d2b0b"/>
-        <text x="20" y="40" font-size="22">📚</text>
-        <text x="20" y="70" font-weight="700" fill="#ffffff">Courses &amp; quizzes</text>
-        <text x="20" y="90" font-size="12" fill="#c9b48a">create, teach, test</text>
+        <text x="20" y="40" font-size="22">📝</text>
+        <text x="20" y="70" font-weight="700" fill="#ffffff">Exam engine</text>
+        <text x="20" y="90" font-size="12" fill="#c9b48a">concurrent online exams</text>
       </g>
       <g class="tile t3" transform="translate(210,146)">
         <rect width="196" height="104" rx="16" fill="#1a1207" stroke="#3d2b0b"/>
-        <text x="20" y="40" font-size="22">🌐</text>
-        <text x="20" y="70" font-weight="700" fill="#ffffff">Multilingual LMS</text>
-        <text x="20" y="90" font-size="12" fill="#c9b48a">self-paced, anywhere</text>
+        <text x="20" y="40" font-size="22">🎓</text>
+        <text x="20" y="70" font-weight="700" fill="#ffffff">Course delivery</text>
+        <text x="20" y="90" font-size="12" fill="#c9b48a">video lessons, roles</text>
       </g>
       <g class="tile t4" transform="translate(420,146)">
         <rect width="196" height="104" rx="16" fill="#1a1207" stroke="#3d2b0b"/>
@@ -84,14 +84,14 @@
       <g class="tile t5" transform="translate(0,264)">
         <rect width="301" height="88" rx="16" fill="#1a1207" stroke="#3d2b0b"/>
         <text x="20" y="38" font-size="22">🏅</text>
-        <text x="56" y="38" font-weight="700" fill="#ffffff">Verified certificates</text>
-        <text x="20" y="66" font-size="12" fill="#c9b48a">digital, with authenticity checks</text>
+        <text x="56" y="38" font-weight="700" fill="#ffffff">Automated certification</text>
+        <text x="20" y="66" font-size="12" fill="#c9b48a">issued on completion</text>
       </g>
       <g class="tile t6" transform="translate(315,264)">
         <rect width="301" height="88" rx="16" fill="#1a1207" stroke="#3d2b0b"/>
-        <text x="20" y="38" font-size="22">💬</text>
-        <text x="56" y="38" font-weight="700" fill="#ffffff">Community</text>
-        <text x="20" y="66" font-size="12" fill="#c9b48a">forums and peer support</text>
+        <text x="20" y="38" font-size="22">💳</text>
+        <text x="56" y="38" font-weight="700" fill="#ffffff">Payments</text>
+        <text x="20" y="66" font-size="12" fill="#c9b48a">integrated checkout</text>
       </g>
     </g>
   </g>

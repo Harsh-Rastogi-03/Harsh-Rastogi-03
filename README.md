@@ -13,7 +13,7 @@
 
 <br>
 
-I'm an **AI Product Engineer** who builds generative-AI products and autonomous agents, and takes them from idea to production. Today that means AI fashion imagery at **Modelia**, multi-agent systems at **SelfAgentic**, and a learning platform I delivered end to end for **GyanSathi**.
+I'm an **AI Product Engineer** who builds generative-AI products and autonomous agents, and takes them from idea to production. Today that means AI fashion imagery at **Modelia**, multi-agent systems at **SelfAgentic**, which I co-founded, and a university learning platform I built solo for **GyanSathi**.
 
 I care about the parts of AI products that rarely make the demo: correct billing, safe data pipelines, clean migrations, and agents that know when to hand over to a human.
 
@@ -32,7 +32,7 @@ Generative-AI fashion imagery and video for e-commerce brands
 <td width="33%" valign="top" align="center">
 
 ### 🤖 [SelfAgentic](https://selfagentic.in)
-**Contributor**
+**Co-Founder & Developer**
 
 Teams of autonomous AI agents that work inside your tools
 
@@ -42,7 +42,7 @@ Teams of autonomous AI agents that work inside your tools
 ### 🎓 [GyanSathi](https://gyansathi.com)
 **Delivered end to end**
 
-A multilingual learning platform for 50,000+ learners
+University learning platform for 5,000+ learners, built solo
 
 </td>
 </tr>
@@ -123,7 +123,7 @@ Modelia's AI fashion tools (virtual try-on, consistent character, outfit generat
 
 <a href="https://selfagentic.in"><img src="assets/selfagentic.svg" alt="SelfAgentic: AI agents that work for you" width="100%"></a>
 
-I contribute to **[SelfAgentic](https://selfagentic.in)**, a platform where teams of autonomous agents collaborate, keep memory across runs, and take real actions in Slack, Google Workspace, LinkedIn and Meta Ads, with per-agent permissions and human approval on every outbound action.
+I co-founded and build **[SelfAgentic](https://selfagentic.in)**, a multi-agent platform (closed beta) where teams of autonomous agents collaborate, keep memory across runs, and take real actions in Slack, Google Workspace, LinkedIn and Meta Ads, with per-agent permissions and human approval on every outbound action.
 
 <br>
 
@@ -131,7 +131,7 @@ I contribute to **[SelfAgentic](https://selfagentic.in)**, a platform where team
 
 <a href="https://gyansathi.com"><img src="assets/gyansathi.svg" alt="GyanSathi: learning platform with AI-based evaluation" width="100%"></a>
 
-I delivered **[GyanSathi](https://gyansathi.com)** end to end: a multilingual learning platform with courses and quizzes, **AI-based evaluation of students**, live progress analytics, verified certificates and community forums.
+I built **[GyanSathi](https://gyansathi.com)** end to end, solo: a production learning platform serving **5,000+ active learners at CCS University**, with course delivery, an examination engine, **AI-based evaluation of students**, automated certification, payments and real-time analytics.
 
 <br>
 
@@ -145,7 +145,7 @@ I delivered **[GyanSathi](https://gyansathi.com)** end to end: a multilingual le
 
 <a href="https://github.com/Harsh-Rastogi-03/carcode"><img src="https://raw.githubusercontent.com/Harsh-Rastogi-03/carcode/main/assets/banner.svg" alt="carcode" width="100%"></a>
 
-**[carcode](https://github.com/Harsh-Rastogi-03/carcode)**: a voice interface to Claude Code for the car. Say *"Hey Siri, Jarvis"* to review PRs, triage Slack and ship code changes hands-free over CarPlay. Under the hood, it keeps warm agent sessions, answers every turn within 8 seconds, holds long jobs in the background, and gates every outward action behind a spoken confirmation. It's tested, documented and set up in one command.
+**[carcode](https://github.com/Harsh-Rastogi-03/carcode)** lets you **code from your car**: a voice interface to Claude Code. Say *"Hey Siri, Jarvis"* to review PRs, triage Slack and ship code changes hands-free over CarPlay. Under the hood, it keeps warm agent sessions, answers every turn within 8 seconds, holds long jobs in the background, and gates every outward action behind a spoken confirmation. It's tested, documented and set up in one command. **[Read how I built it →](https://harshrastogi.tech/blog/code-from-your-car-claude-code-carplay)** · **[Project page](https://harshrastogi.tech/projects/carcode)**
 
 <br>
 
