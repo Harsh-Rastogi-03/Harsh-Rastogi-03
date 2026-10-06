@@ -1,4 +1,4 @@
-<a href="https://www.harshrastogi.tech"><img src="assets/hero.svg" alt="Harsh Rastogi, AI Product Engineer and Business AI Head at Modelia" width="100%"></a>
+<a href="https://www.harshrastogi.tech"><img src="assets/hero-studio.svg" alt="Harsh Rastogi, AI Product Engineer and Business AI Head at Modelia" width="100%"></a>
 
 <p align="center">
   <a href="https://www.harshrastogi.tech"><b>Portfolio</b></a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://www.harshrastogi.tech/projects">Work</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://www.harshrastogi.tech/skills">Claude skills</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://www.harshrastogi.tech/blog">Writing</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://linkedin.com/in/harsh2003">LinkedIn</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="mailto:harshrastogi0603@gmail.com">Email</a>
