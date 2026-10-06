@@ -79,7 +79,7 @@ A smart school ERP with AI that analyses every student's performance and automat
 <td width="50%" valign="top">
 <a href="https://github.com/Harsh-Rastogi-03/carcode"><img src="assets/work/carcode.jpg" alt="carcode: code from your car with Claude Code" width="100%"></a>
 
-**[carcode](https://github.com/Harsh-Rastogi-03/carcode)** · Open source, MIT<br>
+**[carcode](https://github.com/Harsh-Rastogi-03/carcode)** · Open source, MIT · on [npm](https://www.npmjs.com/package/carcode-cli)<br>
 Say *"Hey Siri, Jarvis"* and Claude Code reviews PRs, reads Slack and ships changes while CarPlay reads the answer aloud. [How I built it →](https://www.harshrastogi.tech/blog/code-from-your-car-claude-code-carplay)
 </td>
 <td width="50%" valign="top">
@@ -104,7 +104,7 @@ Things I've built for other people to use. Each skill installs into Claude Code 
 | Claude skill | **[AI Feature Rollout](https://www.harshrastogi.tech/skills/ai-feature-rollout)** | Ship AI features behind flags, guardrails and kill switches |
 | Claude skill | **[Shopify App Review](https://www.harshrastogi.tech/skills/shopify-app-review)** | Catch App Store rejections before Shopify does |
 | Claude skill | **[Prisma + Postgres Performance](https://www.harshrastogi.tech/skills/prisma-postgres-performance)** | Find the queries that will hurt at 10x traffic |
-| Open source | **[carcode](https://github.com/Harsh-Rastogi-03/carcode)** | Code from your car with Claude Code |
+| Open source | **[carcode](https://github.com/Harsh-Rastogi-03/carcode)** | Code from your car with Claude Code. Install: `npx carcode-cli` |
 
 <br>
 
